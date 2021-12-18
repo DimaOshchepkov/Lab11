@@ -1,0 +1,10 @@
+﻿  Lab11.cpp
+C:\Users\odo20\source\repos\Lab11\Lab11\Lab11.cpp(32,21): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\odo20\source\repos\Lab11\Lab11\Lab11.cpp(32,21): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\odo20\source\repos\Lab11\Lab11\Lab11.cpp(32,21): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+C:\Users\odo20\source\repos\Lab11\Lab11\Lab11.cpp(32,21): message : этот аргумент используется в качестве размера буфера
+C:\Users\odo20\source\repos\Lab11\Lab11\Lab11.cpp(34,21): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\odo20\source\repos\Lab11\Lab11\Lab11.cpp(34,21): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\odo20\source\repos\Lab11\Lab11\Lab11.cpp(34,21): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+C:\Users\odo20\source\repos\Lab11\Lab11\Lab11.cpp(34,21): message : этот аргумент используется в качестве размера буфера
+  Lab11.vcxproj -> C:\Users\odo20\source\repos\Lab11\Debug\Lab11.exe
